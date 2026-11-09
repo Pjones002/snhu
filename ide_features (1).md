@@ -2,34 +2,23 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
-
-TODO: Replace with your introduction here.
+Using VS Code for my first Python assignment was a learning experience. At first, getting familar with VS Code and Github was extremely hard. However, once I became more comfortable navigating the systems I started to understand how the IDE features could make writing, testing, and troubleshooting code easier.
 
 ## Feature 1 – TODO: Replace with name of your Feature1
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
 
-TODO: Replace with your Feature 1 paragraph here.
+The first feature I found helpful was the code formatting and syntax highlighting when importing the datetime module. The assignment required me to use the current year instead of hardcoding and the improt made accomplishing this task much easier and cleaner. VS Code made it easier to write and format the code correctly by highlighting different parts of the syntax as well. 
 
 ## Feature 2 – TODO: Replace with name of your Feature2
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
+The second feature that was useful was the automatic code suggestions while writing my syntax. As I started typing commands, VS Code would anticipate what I was writing and offer suggested strings and commands. This feature saved me lots of needed time and compared to the practice modules was easier to manage and navigate. 
 
 ## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The third feature I found useful was the integrated terminal and Python execution. When I needed to test my program code, I could instantly see the results which gave me feedback on what I needed to do next to improve the code. I had some trouble getting the datetime module to work correctly so being able to run the code, review it, than make changes was extremely valuable to my growth. This made troubleshooting much easier and helped me understand what I was doing. 
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+Overall, my experience has been tough but I am growing every time I use the VS Code and Github software. I am using the virtual machine to run the VS Code which makes going from my save files to the Codio files difficult but thats my lesson to download VS Code on my own computer for next time. 
 
-TODO: Replace with your conclusion here.
 
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
